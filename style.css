@@ -184,7 +184,7 @@ button:hover {
     }
 
     .result {
-        border-radius: 19px;
+        border-radius: 25px;
         height: 500px;
         width: 400px;
     }
@@ -219,8 +219,10 @@ button:hover {
 
     .summary {
         box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.2);
-        border-radius: 19px;
+        border-radius: 25px;
         padding: 2rem;
+        padding-left: 4rem;
+        transform: translate(-9%);
     }
     
     .summary-list {
